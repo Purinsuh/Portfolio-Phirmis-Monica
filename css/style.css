@@ -28,10 +28,12 @@
 }
 
 .yellow {
+  width: 100%;
   background-color: skyblue;
 }
 
 .cv2 {
+  width: 100%;
   position: relative;
   background-color: white;
 }
