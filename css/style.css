@@ -6,7 +6,7 @@
 }
 
 .btn-custom {
-  background-color: blue;
+  background-color: #A6F0A0;
   position:relative;
 
 }
@@ -48,7 +48,7 @@
 
 .cv3{
   position: relative;
-  background-color: #CF80FF;
+  background-color: #A6F0A0;
 }
 
 
@@ -169,7 +169,7 @@
 /* Fond image #1C1C1D*/
 .fond_img{
 border-radius: 10px;
-background:#CF80FF ;
+background:#A6F0A0 ;
 display: inline-block;
 width: auto;
 }
